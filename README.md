@@ -29,12 +29,11 @@ O dataset `Base_Simulada_Bolsa_Fam_lia.csv` foi gerado através de IA para fins 
 ## ⚙️ Como rodar o notebook
 
 - https://github.com/moreiraDavi/bolsa-familia-classifier.git
-- pip install pandas scikit-learn matplotlib seaborn jupyter
+- cd bolsa-familia-classifier
+- pip install -r requirements.txt
   
----
-
 ## 👤 Autor
 
 Desenvolvido por **Davi Moreira**  
-[🔗 GitHub](https://github.com/moreiraDavi) · [🔗 LinkedIn](https://www.linkedin.com/in/seu-perfil)
+[🔗 GitHub](https://github.com/moreiraDavi) · [🔗 LinkedIn](https://linkedin.com/in/davi-moreira-631974289)
 
