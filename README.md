@@ -1,5 +1,9 @@
 # Projeto: Classificação de Beneficiários do Bolsa Família
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Este projeto foi desenvolvido para que eu treinasse meus conhecimentos em Machine Learning utilizando Python e algumas bibliotecas
 
 ##  📊 Dados Utilizados
